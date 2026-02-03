@@ -1,3 +1,4 @@
+🚀 Live App: https://cropyield-recommendation-system.streamlit.app
 # 🌾 Crop & Yield Recommendation System
 
 This project is a multi-stage machine learning system that:
